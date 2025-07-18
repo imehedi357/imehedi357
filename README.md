@@ -50,6 +50,11 @@
 
 <img align="right" height="100" src="https://preview.redd.it/shikamaru-appreciation-post-v0-psklyskdqx9a1.jpg?width=1080&crop=smart&auto=webp&s=b5150726dee3bdda03e5510179cc6618e7f6ceb7"  />
 
+
+###
+
+<img src="https://raw.githubusercontent.com/imehedi357/imehedi357/output/snake.svg" alt="Snake animation"  align="left"/>
+
 ###
 
 <div align="left">
@@ -60,9 +65,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/imehedi357/imehedi357/output/snake.svg" alt="Snake animation" />
 
 ###
