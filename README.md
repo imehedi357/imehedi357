@@ -65,6 +65,3 @@
 
 ###
 
-<img align="right" height="100" width='100' src="https://preview.redd.it/shikamaru-appreciation-post-v0-psklyskdqx9a1.jpg?width=1080&crop=smart&auto=webp&s=b5150726dee3bdda03e5510179cc6618e7f6ceb7"  />
-
-###
