@@ -53,7 +53,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/imehedi357/imehedi357/output/snake.svg" alt="Snake animation"  align="left"/>
+<img src="https://raw.githubusercontent.com/imehedi357/imehedi357/output/snake.svg" alt="Snake animation" />
 
 ###
 
