@@ -48,21 +48,11 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imehedi357/imehedi357/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imehedi357/imehedi357/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/imehedi357/imehedi357/output/pacman-contribution-graph.svg">
-</picture>
+<img align="right" height="100" src="https://preview.redd.it/shikamaru-appreciation-post-v0-psklyskdqx9a1.jpg?width=1080&crop=smart&auto=webp&s=b5150726dee3bdda03e5510179cc6618e7f6ceb7"  />
 
 ###
 
-<img align="right" height="200" src="https://preview.redd.it/shikamaru-appreciation-post-v0-psklyskdqx9a1.jpg?width=1080&crop=smart&auto=webp&s=b5150726dee3bdda03e5510179cc6618e7f6ceb7"  />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=imehedi357.imehedi357&"  />
-</div>
+<img src="https://raw.githubusercontent.com/imehedi357/imehedi357/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -74,9 +64,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/imehedi357/imehedi357/output/snake.svg" alt="Snake animation" />
 
 ###
